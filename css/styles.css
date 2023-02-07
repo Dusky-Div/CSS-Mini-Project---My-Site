@@ -1,0 +1,91 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Merriweather Sans", sans-serif;
+  font-size: 100%;
+  line-height: 2;
+}
+
+hr {
+  width: 10%;
+  border-style: dotted none none none;
+  border-color: grey;
+  border-width: 10px;
+  margin: 50px auto;
+}
+
+h1 {
+  margin-top: 0px;
+  width: 15%;
+  display: inline-block;
+  font-family: "Sacramento", cursive;
+  font-size: 5.62rem;
+  display: inline-block;
+  width: 1000px;
+  color: #66bfbf;
+}
+h2 {
+  font-family: "Montserrat", sans-serif;
+  font-size: 2.5rem;
+  color: #66bfbf;
+  font-weight: normal;
+}
+h3 {
+  font-family: "Montserrat", sans-serif;
+  color: #11999e;
+}
+
+.my-image {
+  margin-top: 70px;
+}
+
+.top {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  top: 300px;
+  left: 300px;
+}
+.mountain {
+  margin-top: 0px;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+}
+
+.guitar-img {
+  float: left;
+  margin-right: 50px;
+}
+
+.tae2-img {
+  float: right;
+  margin-left: 50px;
+}
+
+.a-student {
+  display: inline-block;
+  position: absolute;
+  text-align: centre;
+  top: 230px;
+  left: 42.5%;
+}
+.footer-link {
+  color: #11999e;
+}
+.bottom-container {
+  background-color: #e4f9f5;
+}
